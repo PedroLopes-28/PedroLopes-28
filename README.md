@@ -36,8 +36,6 @@ Atualmente, participo ativamente de projetos acadêmicos e profissionais, colabo
 - Organização de projetos e boas práticas de código
 - Programação orientada a objetos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrolopes-28&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrolopes-28&layout=compact)
 
 ---
 
